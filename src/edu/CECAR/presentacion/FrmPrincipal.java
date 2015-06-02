@@ -43,6 +43,7 @@ public final class FrmPrincipal extends JFrame {
 	private BufferedReader bfReader;
         int preuba=0;
         String otro="prueba jankins";
+        int n=0;
 
 /**
  * Creacion del contenido de la interfaz, se implentan las diferentes escuchadoras
