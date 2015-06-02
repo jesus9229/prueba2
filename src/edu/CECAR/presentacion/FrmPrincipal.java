@@ -43,6 +43,7 @@ public final class FrmPrincipal extends JFrame {
 	private BufferedReader bfReader;
       
         int x=0;
+        String p="hola";
      
 
 /**
