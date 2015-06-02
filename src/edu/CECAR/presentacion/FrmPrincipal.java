@@ -41,9 +41,8 @@ public final class FrmPrincipal extends JFrame {
 	private File archivo = null;
 	private FileReader lector;
 	private BufferedReader bfReader;
-        int preuba=0;
-        String otro="prueba jankins";
-        int n=0;
+      
+        int x=0;
 
 /**
  * Creacion del contenido de la interfaz, se implentan las diferentes escuchadoras

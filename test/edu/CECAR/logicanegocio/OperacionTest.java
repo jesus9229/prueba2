@@ -43,7 +43,7 @@ public class OperacionTest {
      * Test of abrir method, of class Operacion.
      */
     
-    /*
+    
     @Test
     public void testAbrir() {
         System.out.println("metodo abrir clase operaciones");
@@ -54,7 +54,7 @@ public class OperacionTest {
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
     }
-    */
+   
     
 
     /**
@@ -64,7 +64,7 @@ public class OperacionTest {
     @Test
     public void testGuardar() {
         System.out.println("metodo guardar");
-        String ruta = "C:\\Users\\JESUS\\Desktop\\prueba\\prueba2.txt";
+        String ruta = "C:\\Users\\JESUS\\Desktop\\prueba\\prueba.txt";
         String contenido = "documento guardado con exito";
         boolean expResult = true;
         boolean result = Operacion.guardar(ruta, contenido);
