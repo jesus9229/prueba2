@@ -43,7 +43,7 @@ public final class FrmPrincipal extends JFrame {
 	private BufferedReader bfReader;
       
         int x=0;
-        int y=9;
+        int y=91;
 
 /**
  * Creacion del contenido de la interfaz, se implentan las diferentes escuchadoras
